@@ -1,0 +1,14 @@
+{
+  "name": "html-to-object-parser",
+  "version": "1.0.0",
+  "description": "A library for parsing HTML into objects",
+  "main": "index.js",
+  "author": "Thomas Donnelly",
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomasdonnelly0114/htmlToObjectParser"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "html-to-object-parser",
+  "version": "1.0.0",
+  "description": "A library for parsing HTML into objects",
+  "main": "main.js",
+  "scripts": {
+    "test": "npx jest",
+    "start": "node main.js markup.html"
+  },
+  "author": "Thomas Donnelly",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomasdonnelly0114/htmlToObjectParser"
+  }
+}
